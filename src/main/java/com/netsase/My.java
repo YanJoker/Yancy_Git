@@ -6,6 +6,11 @@ public class My {
     }
     private String name;
     private String des;
+
+    public My() {
+    }
+
+
     public My(String name, String des) {
         this.name = name;
         this.des = des;
