@@ -5,4 +5,5 @@ public class My {
         System.out.println("chen");
     }
     private String name;
+    private String des;
 }
