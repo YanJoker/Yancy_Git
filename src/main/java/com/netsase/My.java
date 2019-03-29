@@ -4,6 +4,6 @@ public class My {
     public static void main(String[] args) {
         System.out.println("chen");
     }
-
-    private int haha;
+    private String name;
+    private String des;
 }
