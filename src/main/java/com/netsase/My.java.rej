@@ -1,0 +1,9 @@
+diff a/src/main/java/com/netsase/My.java b/src/main/java/com/netsase/My.java	(rejected hunks)
+@@ -2,6 +2,6 @@
+ 
+ public class My {
+     public static void main(String[] args) {
+-        System.out.println();
++        System.out.println(12);
+     }
+ }
